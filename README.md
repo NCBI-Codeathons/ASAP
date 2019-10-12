@@ -1,4 +1,11 @@
-# SV_Freq
+# Automated Structural Variation Annotation Pipeline (ASAP)
 
-Slides: https://docs.google.com/presentation/d/1a38zBzK-RcsS3Got-O0BDgjZ3Q8uNmrVhC_ctIMspiQ/edit?usp=sharing
+An automated and robust pipeline to annotate structural variation.  Annotation may include allele frequency, colocated gene, functional features and domains, regulatory elements, and transcription levels.
+
+Installation instructions:
+System Requirement:
+Excecution Example:
+
+Data sources:
+
 
