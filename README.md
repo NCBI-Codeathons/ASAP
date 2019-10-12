@@ -4,6 +4,12 @@ An automated and robust pipeline to annotate structural variation.  Annotation m
 
 ## Installation instructions:
 
+``` git clone this
+
+tar -xvf....
+
+bash ../bashymcbasherface ```
+
 ## System Requirement:
 
 ## Excecution Example:
