@@ -8,7 +8,9 @@ An automated and robust pipeline to annotate structural variation.  Annotation m
 
 tar -xvf....
 
-bash ../bashymcbasherface ```
+bash ../bashymcbasherface 
+
+```
 
 ## System Requirement:
 
