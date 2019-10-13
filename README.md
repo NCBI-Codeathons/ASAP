@@ -17,6 +17,7 @@ bash ../bashymcbasherface
 ## System Requirements:
 
 ## Excecution Example:
+## Flow of the RNASeq Analysis:
 
 ## Data sources and Data Description:
 53 non-diseased tissue sites across nearly 1000 individuals:
