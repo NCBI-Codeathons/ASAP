@@ -4,6 +4,8 @@ An automated pipeline to annotate structural variation.  Annotation may include 
 
 ## Figure showing what it does (the pipeline to solve everything!)
 
+![ASVAP_pipeline](https://github.com/NCBI-Codeathons/ASAP/blob/master/Images/ASVAP.png)
+
 ## Installation instructions:
 
 ``` git clone this
