@@ -22,6 +22,7 @@ bash ../bashymcbasherface
 ## Data sources and Data Description:
 53 non-diseased tissue sites across nearly 1000 individuals:
  GTEx RNASeq Data: Downloaded RNA-Seq gene read counts GCT file from https://gtexportal.org/home/datasets
+ 
  GTEx Meta Data: manually curated from https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5214/E-MTAB-5214.sdrf.txt
 from NA12878 Germline Whole Genome v2 Chromium Genome v2 Dataset by Long Ranger 2.2.1:
  Downloaded WGS v2 dels VCF file from from https://support.10xgenomics.com/genome-exome/datasets/2.2.1/NA12878_WGS_v2
