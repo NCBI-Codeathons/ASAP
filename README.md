@@ -2,8 +2,6 @@
 
 An automated pipeline to annotate structural variation.  Annotation may include allele frequency, colocated gene, functional features and domains, regulatory elements, and transcription levels.
 
-## Figure showing what it does (the pipeline to solve everything!)
-
 ![ASVAP_pipeline](https://github.com/NCBI-Codeathons/ASAP/blob/master/Images/ASVAP.png)
 
 ## Installation instructions:
