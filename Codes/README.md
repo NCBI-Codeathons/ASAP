@@ -1,13 +1,16 @@
 
 ### "Dockerize"
 
-Explains how to build the docker for AnnotSV.
-Note that currently the resulting image will be called `annotatesv`.
+Explains how to build the docker for 
+   * AnnotSV
+   * postprocessing
+   
+Note that currently the resulting image for AnnotSV will be called `annotatesv`.
 
-### "wdl"
+### "WDL"
 
-WDL Scripts on how to use `annotatesv` for cloud-based usage.
+WDL Scripts on how to use `annotatesv` and postprocessing step for cloud-based pipelines.
 
-### "Postprocessing"
+### "demo"
 
-Scripts for how to handle the tsv output by AnnotSV.
+A tiny demo to showcase usage
