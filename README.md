@@ -42,7 +42,7 @@ Parse GTEx RNASeq normalized data by tissue types
 Within each tissue type:
  Calculate for standard deviation of gene expression 
  
- [gtex](https://github.com/NCBI-Codeathons/ASAP/blob/master/Images/RNAseq_team4.jpg)
+![gtex](https://github.com/NCBI-Codeathons/ASAP/blob/master/Images/RNAseq_team4.jpg)
  
 Custom data import:
 
