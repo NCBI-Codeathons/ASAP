@@ -16,7 +16,7 @@ task StandarizeToVCF {
     command <<<
         set -eu
 
-        echo
+        Rscript /opt/postprocess.R ~{original_vcf} ~{post_processed_vcf} ~{annotated_tsv}
     >>>
 
     output {
